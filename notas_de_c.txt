@@ -1,0 +1,8 @@
+Las funciones son un minibloque que puede ejectuar codigo, facilitan las tareas cinvirtiendo en un codigo largo en pequenos fragmentos de codigo, esto hace que se pueda reutulizar el codigo y la sintaxis de una funcion siempre sera:
+
+int nombreDeLaFuncion(int parametros)
+{
+  codigo a ejecutar
+}
+
+el tipo de datos que lleva al inicio sera indicativo si va a retornar una variable, osea si va a mandarle algun valor al prpgrama main.
